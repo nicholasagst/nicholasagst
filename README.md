@@ -1,6 +1,6 @@
 # Nicholas Daniel
 
-Sou Técnico de Enfermagem formado, com certificação em Suporte em TI pelo Google e experiência prática
+ Técnico em Suporte em ti/Técnico de informática formado, com certificação em Suporte em TI pelo Google e experiência prática
  no suporte de TI. Atualmente, atuo na área de TI, com sólida experiência em redes, hardware, software ,
  atendimento ao cliente, entre outras qualificações. Além disso, tenho vivência em Desenvolvimento Web
  (HTML5, CSS3 e JavaScript) e programação em Python, com um projeto próprio de Gerador de Senhas
